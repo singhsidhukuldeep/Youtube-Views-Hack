@@ -53,7 +53,7 @@ Repository: https://github.com/singhsidhukuldeep/Youtube-Views-Hack
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">YouTube Views Hack</a>
+                <a class="navbar-brand" href="index.php">YouTube Views Hack</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -112,7 +112,7 @@ Repository: https://github.com/singhsidhukuldeep/Youtube-Views-Hack
                                 <p>Using such type of tools is un-ethical and aginst YouTube's terms. <br>So please be sure, as you are the only person solely responsible for your actions!</p>
                             </div>
                             <div class="modal-footer">
-                                <a href = "ItsOk.html"><button type="button" class="btn btn-default" data-dismiss="modal">Abort Mission</button></a>
+                                <a href = "ItsOk.php"><button type="button" class="btn btn-default" data-dismiss="modal">Abort Mission</button></a>
                                 <a href="#var"> <button type="button" class="btn btn-primary">Be a SAVAGE and Do It !!  </button> </a>
                             </div>
                         </div>
@@ -196,7 +196,7 @@ Repository: https://github.com/singhsidhukuldeep/Youtube-Views-Hack
                             <div class="form-group">
                                 <label for="inputEmail" class="col-lg-2 control-label">Wait for</label>
                                 <div class="col-lg-10">
-                                    <input class="form-control" id="Blocks" name="Blocks" placeholder= "Repeat after (Seconds)" type="number">
+                                    <input class="form-control" id="Blocks" name="Blocks" placeholder= "Repeat after (Seconds): Feature Unavailable" disabled="" type="number">
                                 </div>
                             </div>
                             <legend>Disclaimer Check</legend>

@@ -53,7 +53,7 @@ Repository: https://github.com/singhsidhukuldeep/Youtube-Views-Hack
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">YouTube Views Hack</a>
+                <a class="navbar-brand" href="index.php">YouTube Views Hack</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -113,7 +113,7 @@ Repository: https://github.com/singhsidhukuldeep/Youtube-Views-Hack
                                 <p>Using such type of tools is un-ethical and aginst YouTube's terms. <br>So please be sure, as you are the only person solely responsible for your actions!</p>
                             </div>
                             <div class="modal-footer">
-                                <a href="index.html#var"> <button type="button" class="btn btn-primary">Nah I have changed my mind... Let's do it!  </button> </a>
+                                <a href="index.php#var"> <button type="button" class="btn btn-primary">Nah I have changed my mind... Let's do it!  </button> </a>
                             </div>
                         </div>
                     </div>
