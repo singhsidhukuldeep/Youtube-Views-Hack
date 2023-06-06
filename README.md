@@ -6,6 +6,16 @@ In this you can open multiple instances of a single video using the YouTube API 
 
 > This Project is INCOMPLETE
 
+  
+<h2 align="center">🌟⭐✨STAR ME✨⭐🌟</h2>
+
+<p align="center">
+  <b>You can give me a small 🤓 dopmaine 🤝 support by ⭐STARRING⭐ this project</b>
+  
+<img src="https://api.star-history.com/svg?repos=singhsidhukuldeep/Youtube-Views-Hack&type=Date" width="70%" alt="🌟⭐✨STAR ME✨⭐🌟">
+</p>
+
+
 ## CREDITS
 
 >Kuldeep Singh Sidhu
